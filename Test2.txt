@@ -1,2 +1,1 @@
-Второй файл для ветки branch_1
-Branch1_Comm2
+Branch dev2
